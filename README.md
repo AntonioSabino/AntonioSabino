@@ -1,10 +1,18 @@
 ### Olá, eu sou o Antonio Sabino 👋
 
+  <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif" width="400px" />
+
 - 🔭 Atualmente estou estudando **desenvolvimento FullStack na Trybe**;
 - 🌱 Estou aprendendo **NodeJS** e já fiz minhas primeiras **APIs**;
 - 🤔 
 - 💬 Pergunte-me sobre qualquer coisa, **SE** eu souber, te respondo, **SE NÃO**, te ajudo a procurar a resposta;
 - ⚡ Meus hobbies são: fazer churrasco, ir ao cinema, assistir jogos de basquete e futebol.
+
+<p align="center">
+	<a href="https://github.com/AntonioSabino"><img alt="github" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/antoniosabinojr/"><img alt="linkedin" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/sabinooantonio/"><img alt="instagram" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
 
 ## Linguagens e ferramentas:
 <p align="left">
