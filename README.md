@@ -9,9 +9,9 @@
 - ⚡ Meus hobbies são: fazer churrasco, ir ao cinema, assistir jogos de basquete e futebol.
 
 <p align="center">
-	<a href="https://github.com/AntonioSabino" target="_blank"><img alt="github" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/antoniosabinojr/" target="_blank"><img alt="linkedin" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/sabinooantonio/" target="_blank"><img alt="instagram" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/AntonioSabino"><img alt="github" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/antoniosabinojr/"><img alt="linkedin" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/sabinooantonio/"><img alt="instagram" width="100" height="100" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
 ## Linguagens e ferramentas:
