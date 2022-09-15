@@ -2,7 +2,7 @@
 
   <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif" width="400px" />
 
-- 🔭 Atualmente estou estudando **desenvolvimento FullStack na Trybe**;
+- 🔭 Sou **desenvolvimento FullStack** formado pela Trybe;
 - 🌱 Estou aprendendo **Python** e **Java**;
 - 🤔 
 - 💬 Pergunte-me sobre qualquer coisa, **SE** eu souber, te respondo, **SE NÃO**, te ajudo a procurar a resposta;
