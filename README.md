@@ -2,8 +2,8 @@
 
   <img align="right" alt="GIF" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/funcionou.gif" width="400px" />
 
-- 🔭 Sou **desenvolvimento FullStack** formado pela Trybe;
-- 🌱 Estou aprendendo **Python** e **Java**;
+- 🔭 Sou **desenvolvimento FullStack**, com foco em **Node (NestJS e Express)** e **React** formado pela Trybe;
+- 🌱 Estou aprendendo **Java** e **Spring Boot**;
 - 🤔 
 - 💬 Pergunte-me sobre qualquer coisa, **SE** eu souber, te respondo, **SE NÃO**, te ajudo a procurar a resposta;
 - ⚡ Meus hobbies são: fazer churrasco, ir ao cinema, assistir jogos de basquete e futebol.
