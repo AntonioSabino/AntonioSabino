@@ -47,7 +47,12 @@
 
 <h4>Testes</h4>
 
-
+![Jest](https://img.shields.io/badge/jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/vitest-0D1117?style=for-the-badge&logo=vitest&logoColor=6E9F18)
+![Mocha](https://img.shields.io/badge/mocha-0D1117?style=for-the-badge&logo=mocha&logoColor=8D6748)
+![React Testing Library](https://img.shields.io/badge/testinglibrary-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Cypress](https://img.shields.io/badge/cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=A3E7CB)
+![Postman](https://img.shields.io/badge/postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 <h4>DevOps</h4>
 
