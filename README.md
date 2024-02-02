@@ -2,10 +2,10 @@
 
 <h3> 🧙‍♂️ &nbsp;Sobre mim </h3>
 
-- 🔭 Sou **desenvolvedor FullStack**, com foco em **Node**;
+- 🔭 Sou **desenvolvedor FullStack**, hoje trabalho com **Node.js** e **Angular**;
 - 💼 **Back-end** com **NodeJS**, **NestJS** e **Express**;
-- 💼 **Front-end** com **React**, **NextJS**, **Styled Components**, **Tailwind CSS** e **Angular**;
-- 🌱 Aprendendo mais sobre **Java**, **Spring Boot** e **Angular**;
+- 💼 **Front-end** com **React**, **NextJS**, **Styled Components**, **Tailwind CSS**, **Angular** e **Bootstrap**;
+- 🌱 Aprendendo mais sobre **Golang**;
 - ⚡ Meus hobbies são: fazer churrasco, ir ao cinema, assistir jogos de basquete e futebol.
 
 <p align="center">
