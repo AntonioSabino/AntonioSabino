@@ -2,10 +2,9 @@
 
 <h3> 🧙‍♂️ &nbsp;Sobre mim </h3>
 
-- 🔭 Sou **desenvolvedor FullStack**, hoje trabalho com **Node.js** e **Angular**;
+- 🔭 Hoje atuo como **desenvolvedor Backend**, em projetos **Java** e **Go**. Graduado em Informatica Para Negócios, cursando tecnólogo em Desenvilvimento de Software Multiplataforma e MBA em Arquitetura de Software. Em experiências anteriores trabalhei com:
 - 💼 **Back-end** com **NodeJS**, **NestJS** e **Express**;
-- 💼 **Front-end** com **React**, **NextJS**, **Styled Components**, **Tailwind CSS**, **Angular** e **Bootstrap**;
-- 🌱 Aprendendo mais sobre **Golang**;
+- 💼 **Front-end** com **React**, **NextJS**, **Angular**, **Tailwind CSS** e **Bootstrap**;
 - ⚡ Meus hobbies são: fazer churrasco, ir ao cinema, assistir jogos de basquete e futebol.
 
 <p align="center">
